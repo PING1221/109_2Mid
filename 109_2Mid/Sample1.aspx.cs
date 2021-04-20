@@ -11,9 +11,6 @@ namespace _109_2Mid {
 
         }
 
-        protected System.Void RadioButton1_CheckedChanged(System.Object sender, System.EventArgs e)
-        {
-
-        }
+        
     }
 }

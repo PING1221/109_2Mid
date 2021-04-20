@@ -42,22 +42,22 @@ namespace _109_2Mid
         protected global::System.Web.UI.WebControls.DropDownList ddl_Place;
 
         /// <summary>
+        /// name 控制項。
+        /// </summary>
+        /// <remarks>
+        /// 自動產生的欄位。
+        /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label name;
+
+        /// <summary>
         /// tb_Name 控制項。
         /// </summary>
         /// <remarks>
         /// 自動產生的欄位。
         /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label tb_Name;
-
-        /// <summary>
-        /// TextBox1 控制項。
-        /// </summary>
-        /// <remarks>
-        /// 自動產生的欄位。
-        /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox1;
+        protected global::System.Web.UI.WebControls.TextBox tb_Name;
 
         /// <summary>
         /// Label 控制項。
@@ -69,13 +69,13 @@ namespace _109_2Mid
         protected global::System.Web.UI.WebControls.Label Label;
 
         /// <summary>
-        /// RadioButtonList1 控制項。
+        /// rbl_Res 控制項。
         /// </summary>
         /// <remarks>
         /// 自動產生的欄位。
         /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButtonList RadioButtonList1;
+        protected global::System.Web.UI.WebControls.RadioButtonList rbl_Res;
 
         /// <summary>
         /// tb_Des 控制項。
